@@ -1,8 +1,0 @@
-## 记录学习&记录进步
-
-## 分类
-
-###  JVM虚拟机
-
-1. [java内存区域](https://github.com/ForeverRunner/blog/blob/gh-pages/jvm/01JavaMemory.md) 
-2. JVM 垃圾回收
